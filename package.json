@@ -2,13 +2,13 @@
   "name": "ales",
   "version": "7.3.6",
   "description": ".",
-  "main": "./amazoneAlexa/bot.js",
+  "main": "./amazoneAlexa/main.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "supervisor -s main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jesonpro/ales.git"
+    "url": "git+https://github.com/ChamodKeshan/ales.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "alexa"
   ],
   "author": "Alexa",
-  "developer": "@terror-boy / @HatzuHole",
+  "developer": "@terror-boy / @ChamodKeshan",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/jesonpro/ales/issues"
+    "url": "https://github.com/ChamodKeshan/ales/issues"
   },
-  "homepage": "https://github.com/jesonpro/ales#readme",
+  "homepage": "https://github.com/ChamodKeshan/ales#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
